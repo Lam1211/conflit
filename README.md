@@ -1,2 +1,2 @@
-# conflit
+LOCAL
 LOCAL
